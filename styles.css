@@ -28,6 +28,10 @@ body{ background-color:var(--primary-color);
 .tipsForm{padding-left:20px;
           padding-right:20px}
 
+.formInputb{background:white;
+              width:50px;
+              padding:5px 5px 8px 8px;}
+
 .formInput{background:white;
            width:40px;
            padding:5px 5px 8px 8px;}
